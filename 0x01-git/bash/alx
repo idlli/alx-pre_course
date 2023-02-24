@@ -1,6 +1,10 @@
 #!/bin/bash 
+<<<<<<< HEAD
 <<<<<<< master
 echo "ALX School is so cool!"
 =======
 echo "ALX School is so cool!"
 >>>>>>> local
+=======
+echo "ALX School"
+>>>>>>> origin/update_script
